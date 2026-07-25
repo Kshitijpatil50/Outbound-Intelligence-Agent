@@ -1,0 +1,6 @@
+{
+  "name": "Outbound Intelligence Agent",
+  "description": "AI-powered B2B Outbound BDR agent pipeline with live Google Search grounding for account research, contact discovery, and personalized outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
