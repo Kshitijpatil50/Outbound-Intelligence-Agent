@@ -5,6 +5,7 @@ An AI-powered B2B Outbound BDR (Business Development Representative) agent pipel
 https://outbound-intelligence-agent.vercel.app/
 
 The gemini api key is not conneted to the deployment as of now i am having problem doing that i will fix it soon 
+
 but its connected in the google ai studio as i have demostrated in the video
 ---
 
